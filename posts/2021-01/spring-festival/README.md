@@ -77,7 +77,16 @@
 
 小司无常任一局被淘汰，则在决赛之后开启一局表演赛！
 
-- 规则：小司打出的第一张牌。其他三位玩家不能打出。<span title="你知道的太多了" style="color:white">（终局小司必须一位）</span>
+- 规则：小司打出的第一张牌。其他三位玩家不能打出。<span title="你知道的太多了" class="easter-egg">（终局小司必须一位）</span>
 - 参赛人员：在所有活动玩家中随机抽选三位
 - 参赛奖励：三位玩家直接获得 198 元现金奖励
 - 特别奖励：表演赛谁给小司送的分累计最多获得额外奖励一份
+
+<style>
+.yuu-theme-dark .easter-egg {
+  color: #1a1a1a;
+}
+.easter-egg {
+  color: white;
+}
+</style>
