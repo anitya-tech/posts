@@ -32,6 +32,9 @@ environments:
         - pattern: "*"
           headers:
             "Cache-Control": public, max-age=60
+        - pattern: "**/*.html"
+          headers:
+            "Cache-Control": public, max-age=60
         - pattern: "precache*.js"
           headers:
             "Cache-Control": public, max-age=31536000
