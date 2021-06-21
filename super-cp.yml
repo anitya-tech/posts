@@ -6,8 +6,8 @@
 # dists
 .anityaSite: &dist.anityaSite
   type: "@oss"
-  bucket: me-anitya-post
-  region: oss-cn-hongkong
+  bucket: tv-1453-posts
+  region: oss-cn-shanghai
   accessKeyId: $Ali_Key
   accessKeySecret: $Ali_Secret
 
