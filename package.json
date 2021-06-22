@@ -6,13 +6,15 @@
   "repository": "git@git.geektr.co:geektr.co/anitya/posts.git",
   "scripts": {
     "serve": "vuepress dev posts",
-    "build": "vuepress build posts"
+    "build": "vuepress build posts",
+    "post": "npm run build && super-cp"
   },
   "author": "GeekTR <geektheripper@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.8.0",
-    "vuepress": "^1.8.0",
-    "vuepress-theme-yuu": "^3.0.0"
+    "@vuepress/plugin-google-analytics": "^1.8.2",
+    "super-cp": "^0.0.1",
+    "vuepress": "^1.8.2",
+    "vuepress-theme-yuu": "^3.1.1"
   }
 }

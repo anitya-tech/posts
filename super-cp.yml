@@ -4,7 +4,7 @@
   strip: posts/.vuepress/dist/
 
 # dists
-.anityaSite: &dist.anityaSite
+.postSite: &dist.postSite
   type: "@oss"
   bucket: tv-1453-posts
   region: oss-cn-shanghai
@@ -25,7 +25,7 @@
 environments:
   default:
     - source: *src.dist
-      dist: *dist.anityaSite
+      dist: *dist.postSite
       rules:
         - *rule.public
         - *rule.mime
