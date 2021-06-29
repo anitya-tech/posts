@@ -11,11 +11,11 @@ Tsukasa Captain Public License
 ### 使用：
 
 ```bash
-wget -O LICENSE https://post.anitya.geektr.co/LICENSE
+wget -O LICENSE https://posts.1453.tv/LICENSE
 ```
 
 ```powershell
-Invoke-WebRequest -Uri https://post.anitya.geektr.co/LICENSE -OutFile LICENSE
+Invoke-WebRequest -Uri https://posts.1453.tv/LICENSE -OutFile LICENSE
 ```
 
 ### 协议原文：

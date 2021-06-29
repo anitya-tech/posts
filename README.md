@@ -1,6 +1,6 @@
 # 无常殿公告板
 
-https://post.anitya.geektr.co/
+https://posts.1453.tv/
 
 ## Dev
 
@@ -12,5 +12,5 @@ super-cp
 
 ## Ops
 
-- [CDN](https://cdnnext.console.aliyun.com/domain/detail/post.anitya.geektr.co)
+- [CDN](https://cdnnext.console.aliyun.com/domain/detail/posts.1453.tv)
 - [OSS](https://oss.console.aliyun.com/bucket/oss-cn-shanghai/tv-1453-posts/overview)
