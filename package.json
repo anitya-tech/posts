@@ -2,8 +2,8 @@
   "name": "posts",
   "version": "1.0.0",
   "description": "Anitya Posts",
-  "main": "index.js",
-  "repository": "git@git.geektr.co:geektr.co/anitya/posts.git",
+  "homepage": "https://posts.1453.tv",
+  "repository": "git@github.com:anitya-tech/posts.git",
   "scripts": {
     "serve": "vuepress dev posts",
     "build": "vuepress build posts",
