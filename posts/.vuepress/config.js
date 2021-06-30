@@ -1,6 +1,6 @@
 module.exports = {
   title: "无常殿公告板",
-  description: "这里有小司无常发布的所有公告",
+  description: "这里有无常殿发布的所有公告",
   theme: "yuu",
   themeConfig: {
     yuu: {
@@ -12,12 +12,13 @@ module.exports = {
       },
     },
   },
-  plugins: [
-    [
-      "@vuepress/google-analytics",
-      {
-        ga: "UA-188220645-1",
-      },
-    ],
-  ],
+  plugins: {
+    "@vuepress/google-analytics": {
+      ga: "UA-188220645-1",
+    },
+    sitemap: {
+      hostname: require("../../package.json").homepage,
+      exclude: ["/404.html"],
+    },
+  },
 };

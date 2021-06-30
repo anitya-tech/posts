@@ -15,6 +15,7 @@
     "@vuepress/plugin-google-analytics": "^1.8.2",
     "super-cp": "^0.0.1",
     "vuepress": "^1.8.2",
+    "vuepress-plugin-sitemap": "^2.3.1",
     "vuepress-theme-yuu": "^3.1.1"
   }
 }
