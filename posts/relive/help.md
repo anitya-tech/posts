@@ -1,8 +1,8 @@
 # 📼 无常录播使用说明
 
-无常录播是无常殿科技组提供的录播服务
+无常录播是 [`无常殿科技组`](https://posts.1453.tv/anitya-tech/) 提供的录播服务
 
-一般来说本服务的机器人（梦美）会在您录播组的群里，您可以发送一句 `@Yumemi 录播说明`，梦美会回复这样一条包含服务器的地址、账号和密码的消息
+一般来说，梦美（QQ机器人）会在您录播组的群里，您可以发送一句 `@Yumemi 录播说明`，梦美会回复这样一条消息，其中包含服务器的地址、账号和密码等信息
 
 ::: details 展开消息
 ```
@@ -13,7 +13,7 @@
   🔒密码：......
 
 客户端配置：
-  🧩服务器：maggie.minio.geektr.co
+  🧩服务器：maggi......
   🧩端口：9003
   🧩访问密钥 ID：relive-......
   🧩访问私钥：......
@@ -30,7 +30,7 @@ https://posts.1453.tv/relive/help.html
 
 ## 客户端（推荐）
 
-1. 下载 Cyberduck，官网地址：https://cyberduck.io/（如果你访问不了官网，可以使用这个[备用下载链接](/downloads/random/Cyberduck-Installer-8.3.2.37449.exe)）
+1. 下载 Cyberduck，官网地址：[https://cyberduck.io](https://cyberduck.io)（如果你访问不了官网，可以使用这个[备用下载链接](/downloads/random/Cyberduck-Installer-8.3.2.37449.exe)）
 2. 点击左下的 `➕` 添加服务器
   - 最上方的选择器里选择 `Amazon S3` 类型
   - 备注名可以填写 `XXX录播`
