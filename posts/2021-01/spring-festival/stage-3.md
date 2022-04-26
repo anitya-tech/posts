@@ -29,7 +29,7 @@
 
 ### 直播
 
-决赛将在[小司无常](https://live.bilibili.com/14846654)的直播间直播 OB，并邀请了[猫虚 Sonn](https://live.bilibili.com/5428693)担任解说。
+决赛将在<BiliUser room=14846654 name=小司无常 />的直播间直播 OB，并邀请了<BiliUser room=5428693 name="猫虚 Sonn" />担任解说。
 
 ### 牌谱
 

@@ -14,7 +14,7 @@
 
 ### [小司舰长开源协议 ](projects/tcpl/README.md)
 
-无常殿技术组所有开源项目的通用协议，协议规定你在[小司直播间](https://live.bilibili.com/14846654)上舰之后，就可以以任何方式使用该项目的代码。
+无常殿技术组所有开源项目的通用协议，协议规定你在<BiliUser room=14846654 name=小司直播间 />上舰之后，就可以以任何方式使用该项目的代码。
 
 ### [Relive 录播系统（施工中）](projects/relive/README.md)
 

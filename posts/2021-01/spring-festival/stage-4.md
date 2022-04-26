@@ -38,5 +38,5 @@
 
 ## 备注
 
-1. 本次最佳、天选、天谴三个奖项，委托了[猫虚 Sonn](https://space.bilibili.com/197492151)裁定。
+1. 本次最佳、天选、天谴三个奖项，委托了<BiliUser uid=197492151 name="猫虚 Sonn" />裁定。
 2. 表演赛对局[点此打开](https://game.maj-soul.com/1/?paipu=210220-8e0c8001-fca1-4f7e-b677-750b9cea1980_a19671674)
