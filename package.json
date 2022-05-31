@@ -12,7 +12,7 @@
   "author": "GeekTR <geektheripper@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.8.2",
+    "@vuepress/plugin-google-analytics": "^1.9.7",
     "super-cp": "^0.1.1",
     "vuepress": "^1.8.2",
     "vuepress-plugin-sitemap": "^2.3.1",
