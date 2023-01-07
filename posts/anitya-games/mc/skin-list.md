@@ -11,8 +11,8 @@
 </McSkin>
 
 - <BiliUser room=14846654 name=小司无常 />
+  \- <Download href="downloads/games/mc/skins/tsukasa.png" text="下载" />
   \- [🖼️预览](https://skinmc.net/en/profile/Tks1453.1)
-  \- [⬇️下载](/downloads/games/mc/skins/tsukasa.png)
 
 <br>
 
@@ -21,5 +21,5 @@
 </McSkin>
 
 - <BiliUser room=24581640 name=未鸯想睡觉 /> 
+  \- <Download href="downloads/games/mc/skins/chidori.png" text="下载" />
   \- [🖼️预览](https://skinmc.net/en/profile/GeekTR.1)
-  \- [⬇️下载](/downloads/games/mc/skins/chidori.png)

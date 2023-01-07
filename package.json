@@ -14,7 +14,7 @@
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.9.7",
     "super-cp": "^0.1.1",
-    "vuepress": "^1.8.2",
+    "vuepress": "1",
     "vuepress-plugin-sitemap": "^2.3.1",
     "vuepress-theme-yuu": "^3.1.1"
   },

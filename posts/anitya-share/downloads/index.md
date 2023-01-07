@@ -1,10 +1,8 @@
 # 无常殿下载点
 
-## Flash
+配置好了 Flash 的 Chrome 87，解压后运行 Chrome.exe 即可:
 
-[点此下载](https://cloudreve.geektr.co/s/9xcg)
-
-配置好了允许 Flash 运行的 Chrome 87，解压后运行 Chrome.exe 即可.
+<Download large href="downloads/flash/ChromeWithFlash.zip" text="点此下载" />
 
 ::: details 更多细节
 
@@ -23,6 +21,18 @@
    - 如果您是为了玩 Flash 游戏，建议使用最上方提供的解压即可运行哦 Chrome 87
    - 除非您有不得不用国产浏览器的理由，否则任意情况都不建议使用国产浏览器
 
-PS：为了防止重橙网络关闭纯净 Flash 下载通道，这里做了备份：[点此进入](https://cloudreve.geektr.co/s/0vfD)
+PS：为了防止重橙网络关闭纯净 Flash 下载通道，这里做了备份：
+
+**v3.0.0.632 - 2021-11-25**
+
+<Download href="downloads/flash/flashplayerax_install_cn_v3.0.0.632.exe" text="IE版本（ActiveX）" />
+<Download href="downloads/flash/flashplayerpp_install_cn_v3.0.0.632.exe" text="Chrome 及各种国产浏览器（PPAPI）" />
+<Download href="downloads/flash/flashplayer_install_cn_v3.0.0.632.exe" text="Firefox（NPAPI）" />
+
+**34.0.0.277 - 2023-01-08**
+
+<Download href="downloads/flash/flashplayerax_install_cn_34.0.0.277.exe" text="IE版本（ActiveX）" />
+<Download href="downloads/flash/flashplayerpp_install_cn_34.0.0.277.exe" text="Chrome 及各种国产浏览器（PPAPI）" />
+<Download href="downloads/flash/flashplayer_install_cn_34.0.0.277.exe" text="Firefox（NPAPI）" />
 
 :::

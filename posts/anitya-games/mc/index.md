@@ -4,11 +4,8 @@
 
 ---
 
-::: tip 点击下载：
-[🔽 jre-8u251-windows-x64.exe](http://mc.1453.tv/java/jre-8u251-windows-x64.exe)
-
-~~**🔽 jdk-8u331-windows-x64.exe**~~
-:::
+<Download href="http://mc.1453.tv/java/jre-8u251-windows-x64.exe" large />
+<Download href="http://mc.1453.tv/java/jdk-8u331-windows-x64.exe" large disabled />
 
 ## 2. 准备正版账号
 
@@ -48,9 +45,9 @@ Yandex用户 搜索 кожа Рейму + 你喜欢的角色，如 “MC кож�
 
 ---
 
-::: tip 点击下载：
-[🔽 Beta v0.0.2](https://mc.1453.tv/release/anitya-square-beta-v0.0.2.zip)
+<Download href="https://mc.1453.tv/release/anitya-square-beta-v0.0.2.zip" text="Beta v0.0.2" large />
 
+::: tip 💡
 （整合包会自动更新，所以更新版本时你不需要再来下载这个包）
 :::
 

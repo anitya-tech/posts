@@ -77,7 +77,9 @@ PS：感谢叉麻麻 <BiliUser uid=35377 name=自摸叉腰姬 /> 辛苦画图
 | ![QQ][icon-qq]             | ![QQ表情包二维码][qr-qq]                     | -                                         |
 | ![Telegram][icon-telegram] | [小司无常 - 彼方][telegram-cn]               | [Tsukasa - Another Side][telegram-en]     |
 | ![Wechat][icon-wechat]     | ![微信表情包二维码][qr-wechat]               | -                                         |
-| ![下载][icon-download]     | [小司无常 - 彼方.zip][download-cn]           | [Tsukasa - Another Side.zip][download-en] |
+| ![下载][icon-download]     | <Download href="downloads/stickers/小司无常 - 彼方.zip" />           | <Download href="downloads/stickers/Tsukasa - Another Side.zip" /> |
+
+
 
 [sticker-banner]: ./stickers/banner.png
 
@@ -106,6 +108,3 @@ PS：感谢叉麻麻 <BiliUser uid=35377 name=自摸叉腰姬 /> 辛苦画图
 
 [telegram-cn]: https://t.me/addstickers/TsukasaAnotherSideCN
 [telegram-en]: https://t.me/addstickers/TsukasaAnotherSideEN
-
-[download-cn]: /downloads/stickers/小司无常%20-%20彼方.zip
-[download-en]: /downloads/stickers/Tsukasa%20-%20Another%20Side.zip

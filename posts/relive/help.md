@@ -30,7 +30,7 @@ https://posts.1453.tv/relive/help.html
 
 ## 客户端（推荐）
 
-1. 下载 Cyberduck，官网地址：[https://cyberduck.io](https://cyberduck.io)（如果你访问不了官网，可以使用这个[备用下载链接](/downloads/random/Cyberduck-Installer-8.3.2.37449.exe)）
+1. 下载 Cyberduck，官网地址：[https://cyberduck.io](https://cyberduck.io)（如果你访问不了官网，可以使用这个 <Download href="/downloads/random/Cyberduck-Installer-8.3.2.37449.exe" text="备用下载链接" />）
 2. 点击左下的 `➕` 添加服务器
   - 最上方的选择器里选择 `Amazon S3` 类型
   - 备注名可以填写 `XXX录播`

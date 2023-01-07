@@ -105,7 +105,7 @@ export default {
 
   height: 1em;
   padding-left: 2.6em;
-  margin-right: 0.2rem;
+  margin-right: 0.2em;
 
   border-radius: 1px;
   border-top-left-radius: 3px;
