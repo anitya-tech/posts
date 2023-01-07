@@ -21,7 +21,7 @@ export default {
   computed: {
     _href() {
       if (/^(http:\/\/|https:\/\/)/.test(this.href)) return this.href;
-      return location.origin + "/" + encodeURI(this.href);
+      return "/" + encodeURI(this.href);
     },
     _text() {
       return this.text || this.href.split("/").pop();
