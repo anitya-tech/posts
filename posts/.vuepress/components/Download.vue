@@ -44,7 +44,7 @@ export default {
   background #e77055
   color white
 
-  &svg
+  &>svg
     position absolute
     right 0.3em
     top 50%
