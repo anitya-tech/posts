@@ -1,5 +1,5 @@
 <template>
-  <a class="download" :class="{large,disabled}" :href="disabled?null:_href" download>
+  <a class="download" :class="{ large, disabled }" :href="disabled?null:_href" download>
     {{ _text }}
     <svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3768"
       data-spm-anchor-id="a313x.7781069.0.i0" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -30,56 +30,51 @@ export default {
 };
 </script>
 
-<style scoped>
-.download {
-  position: relative;
+<style scoped lang="stylus">
 
-  height: 1em;
-  padding-left: 0.2em;
-  padding-right: 1.6em;
-  margin-right: 0.2em;
+.download
+  position relative
+  height 1em
+  padding-left 0.2em
+  padding-right 1.6em
+  margin-right 0.2em
+  border-radius 1px
+  border-top-left-radius 3px
+  border-bottom-right-radius 3px
+  background #e77055
+  color white
 
-  border-radius: 1px;
-  border-top-left-radius: 3px;
-  border-bottom-right-radius: 3px;
-  background: #e77055;
-  color: white;
-}
-.download+.download {
-  margin-left: 1em;
-}
+  &svg
+    position absolute
+    right 0.3em
+    top 50%
+    transform translateY(-50%)
+    height 1em
 
-.download.disabled {
-  background: #d0b1ad;
-  cursor: not-allowed;
-  opacity: 0.5;
-  text-decoration: none;
-  user-select: none;
-}
+  &.disabled
+    background #d0b1ad
+    cursor not-allowed
+    opacity 0.5
+    text-decoration none
+    user-select none
 
-.download.large {
-  margin: 1em 0;
-  line-height: 5em;
-  text-decoration: underline;
-  font-size: 1.2em;
-  padding: 1em 3.5em 1em 1.2em;
-  border-radius: 1em;
-  border-bottom-left-radius: 0;
-}
-.download.large+.download {
-  margin-left: 2em;
-}
+  &+.download
+    margin-left 1em
 
-.download.large>svg {
-  right: 1em;
-  height: 1.5em;
-}
+.download.large
+  margin 1em 0
+  line-height 5em
+  text-decoration underline
+  font-size 1.2em
+  padding 1em 3.5em 1em 1.2em
+  border-radius 1em
+  border-bottom-left-radius 0
 
-svg {
-  position: absolute;
-  right: 0.3em;
-  top: 50%;
-  transform: translateY(-50%);
-  height: 1em;
-}
+  &+.download
+    margin-left 2em
+
+  &>svg
+    right 1em
+    height 1.5em
+
 </style>
